@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import DisplayCompo from './compo/Display';
 import { Buttontwo } from './compo/Display';
