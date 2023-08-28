@@ -1,0 +1,74 @@
+.heading {
+    text-align: center;
+    font-size: 3em;
+    margin: auto;
+    text-shadow: 4px 2px rgb(0, 191, 255);
+    position: absolute;
+    top: 0;
+    left: 120px;
+}
+
+.classone {
+    height: 35vh;
+    width: 30vw;
+    border: 5px solid black;
+    border-radius: 20px;
+    font-style: oblique;
+    text-transform: capitalize;
+    text-align: center;
+    background-image: radial-gradient(rgba(238, 249, 238, 0.934), rgb(152, 152, 248));
+    position: absolute;
+    top: 350px;
+    left: 850px;
+    box-shadow: 3px 5px black;
+}
+
+.functionone {
+    height: 35vh;
+    width: 30vw;
+    border: 5px solid black;
+    border-radius: 20px;
+    font-style: oblique;
+    text-transform: capitalize;
+    text-align: center;
+    background-image: radial-gradient(white, aqua);
+    position: absolute;
+    top: 350px;
+    left: 100px;
+    box-shadow: 3px 5px black;
+}
+
+p2 {
+    color: blue;
+}
+
+.btn1 {
+    height: 70px;
+    width: 220px;
+    border-radius: 20px;
+    position: relative;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: cursive;
+    left: 400px;
+    top: 150px;
+    text-transform: capitalize;
+    box-shadow: 3px 5px rgb(11, 7, 7);
+    background-image: linear-gradient(rgb(249, 107, 107), white);
+}
+
+.btn2 {
+    height: 70px;
+    width: 220px;
+    border-radius: 20px;
+    position: relative;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: cursive;
+    left: 1000px;
+    top: 80px;
+    text-transform: capitalize;
+    box-shadow: 3px 5px rgb(11, 7, 7);
+    background-image: linear-gradient(rgb(249, 107, 107), white);
+
+}
